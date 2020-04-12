@@ -6,4 +6,4 @@ https://youtu.be/N8kYlimhuLw
 
 ### Deployed Project
 
-* [Demo](https://github.com/gseals/React-Todolist)
+* [Demo](https://gseals.github.io/React-in-github-demo/)
