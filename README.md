@@ -25,16 +25,16 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Screenshots
 
 ### Landing Page
-![Landing Page](https://raw.githubusercontent.com/gseals/youtube-clone/master/screenshots/Landing%20Page.png)
+![Landing Page](https://raw.githubusercontent.com/gseals/React-Todolist/master/screenshots/LandingPage.png)
 
-### Add Item
-![Add Item](https://raw.githubusercontent.com/gseals/youtube-clone/master/screenshots/Landing%20Page.png)
+### Items Added
+![Items Added](https://raw.githubusercontent.com/gseals/React-Todolist/master/screenshots/AddItem.png)
 
 ### Edit Item
-![Edit Item](https://raw.githubusercontent.com/gseals/youtube-clone/master/screenshots/Landing%20Page.png)
+![Edit Item](https://raw.githubusercontent.com/gseals/React-Todolist/master/screenshots/EditItem.png)
 
 ### Delete Item
-![Delete Item](https://raw.githubusercontent.com/gseals/youtube-clone/master/screenshots/Landing%20Page.png)
+![Delete Item](https://raw.githubusercontent.com/gseals/React-Todolist/master/screenshots/DeleteItem.png)
 
 ## How to Run
 
